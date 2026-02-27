@@ -1,11 +1,11 @@
 <div align="center">
 ```
-██╗  ██╗ █████╗ ██╗     █████╗  ██████╗  ██████╗  ██████╗
-██║  ██║██╔══██╗██║    ██╔══██╗██╔═████╗██╔═████╗██╔═████╗
-███████║███████║██║    ╚██████║██║██╔██║██║██╔██║██║██╔██║
-██╔══██║██╔══██║██║     ╚═══██║████╔╝██║████╔╝██║████╔╝██║
-██║  ██║██║  ██║███████╗█████╔╝╚██████╔╝╚██████╔╝╚██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚════╝  ╚═════╝  ╚═════╝  ╚═════╝
+          ██╗  ██╗ █████╗ ██╗      █████╗  ██████╗  ██████╗  ██████╗
+          ██║  ██║██╔══██╗██║     ██╔══██╗██╔═████╗██╔═████╗██╔═████╗
+          ███████║███████║██║     ╚██████║██║██╔██║██║██╔██║██║██╔██║
+          ██╔══██║██╔══██║██║      ╚═══██║████╔╝██║████╔╝██║████╔╝██║
+          ██║  ██║██║  ██║███████╗ █████╔╝╚██████╔╝╚██████╔╝╚██████╔╝
+          ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚════╝  ╚═════╝  ╚═════╝  ╚═════╝
 ```
 
 **A blackjack AI that builds its own strategy from scratch.**
@@ -210,21 +210,17 @@ Count          Hi-Lo, true count adjusted continuously
 
 ## Roadmap
 ```
-Phase I   ████████████░░░░░░░░  RUNNING NOW
-          $2,000 → $25,000
+Phase I   $2,000 → $25,000
           HAL learns from scratch.
           Every pattern earned through play. No shortcuts.
 
-Phase II  ░░░░░░░░░░░░░░░░░░░░  UPCOMING
-          Live human dealer.
+Phase II  Live human dealer.
           HAL plays against a real person at a real table.
 
-Phase III ░░░░░░░░░░░░░░░░░░░░  UPCOMING
-          Real-money live blackjack.
+Phase III Real-money live blackjack.
           Crypto. No banks. No middlemen.
 
-Phase IV  ░░░░░░░░░░░░░░░░░░░░  OPEN SOURCE
-          Full source code released publicly.
+Phase IV  Full source code released publicly.
           All training data made public — every hand log,
           every NSC snapshot, every learned pattern,
           the complete knowledge base from start to finish.
