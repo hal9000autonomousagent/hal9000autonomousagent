@@ -8,8 +8,7 @@ No charts. No lookup tables. No rules given to it. Just hands played, outcomes l
 [![status](https://img.shields.io/badge/status-RUNNING-brightgreen?style=flat-square)](https://your-domain.com)
 [![hands](https://img.shields.io/badge/hands_played-LIVE-blue?style=flat-square)](https://your-domain.com)
 [![hardware](https://img.shields.io/badge/hardware-Apple_Silicon-black?style=flat-square&logo=apple&logoColor=white)](https://your-domain.com)
-[![phase](https://img.shields.io/badge/phase-I_%2F_IV-red?style=flat-square)](https://your-domain.com)
-[![source](https://img.shields.io/badge/source-Phase_IV-555?style=flat-square)](https://your-domain.com)
+[![license](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://your-domain.com)
 
 [**Watch Live →**](https://your-domain.com)
 
